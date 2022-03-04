@@ -50,7 +50,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<mina.version>2.0.16</mina.version>
-		<log4j.version>2.7</log4j.version>
+		<log4j.version>2.13.2</log4j.version>
 	</properties>
 
 	<dependencyManagement>
